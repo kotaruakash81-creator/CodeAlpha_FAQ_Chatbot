@@ -1,0 +1,21 @@
+question,answer
+What is Python?,Python is a high-level, interpreted programming language known for its simple and readable syntax. It is widely used for web development, data science, automation, and AI.
+Who created Python?,Python was created by Guido van Rossum and was first released in 1991.
+What is the difference between a list and a tuple in Python?,A list is mutable (can be changed after creation) while a tuple is immutable (cannot be changed once created). Lists use square brackets [] and tuples use parentheses ().
+What is a dictionary in Python?,A dictionary is an unordered collection of key-value pairs. It is defined using curly braces {} and allows fast lookup of values using unique keys.
+How do I install a package in Python?,You can install a package using pip, Python's package manager, by running the command 'pip install package_name' in your terminal.
+What is a virtual environment and why should I use one?,A virtual environment is an isolated Python environment that lets you manage project-specific dependencies separately from your system Python, avoiding version conflicts.
+What is the difference between == and is in Python?,'==' checks if two values are equal, while 'is' checks if two variables point to the same object in memory.
+What are Python decorators?,A decorator is a function that takes another function and extends its behavior without explicitly modifying it. Decorators are applied using the @ symbol.
+What is list comprehension?,List comprehension is a concise way to create lists in Python using a single line of code, for example [x*x for x in range(10)].
+What is the GIL in Python?,The Global Interpreter Lock (GIL) is a mutex that allows only one thread to execute Python bytecode at a time, even on multi-core processors.
+How do I handle exceptions in Python?,You can handle exceptions using try, except, else, and finally blocks to catch and manage errors gracefully.
+What is the difference between Python 2 and Python 3?,Python 3 is the current and actively maintained version with improved Unicode support, print as a function, and better integer division. Python 2 reached end of life in 2020.
+What are Python modules and packages?,A module is a single Python file containing code, while a package is a collection of modules organized in directories with an __init__.py file.
+How do I read a file in Python?,You can read a file using the open() function along with methods like read(), readline(), or readlines(), typically inside a 'with' statement.
+What is a lambda function?,A lambda function is a small anonymous function defined using the lambda keyword, useful for short, throwaway functions.
+What is the difference between deep copy and shallow copy?,A shallow copy creates a new object but inserts references to the same nested objects, while a deep copy creates a new object and recursively copies all nested objects too.
+What is PEP 8?,PEP 8 is the official style guide for Python code, covering naming conventions, indentation, and formatting best practices.
+How do I debug Python code?,You can debug Python code using print statements, the built-in pdb module, or an IDE debugger with breakpoints.
+What is the difference between args and kwargs?,'*args' allows a function to accept any number of positional arguments, while '**kwargs' allows it to accept any number of keyword arguments.
+What is Git and how is it related to Python projects?,Git is a version control system used to track changes in code over time. It is commonly used with Python projects to collaborate and manage source code via platforms like GitHub.
